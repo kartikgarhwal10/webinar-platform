@@ -43,3 +43,5 @@ next-env.d.ts
 # open-next and wrangler
 /.open-next/
 /.wrangler/
+
+.open-next/
